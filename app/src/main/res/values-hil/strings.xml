@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Leksion Una</string>
+    <string name="UN">Yuserneym</string>
+    <string name="PW">Pasword</string>
+    <string name="L">Pag sulod</string>
+    <string name="Greetings">Pagpadungog Sa Pag-abot!</string>
+    <string name="changeLang">Lenguahe</string>
+</resources>

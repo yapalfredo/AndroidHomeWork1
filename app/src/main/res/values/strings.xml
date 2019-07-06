@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Hello World</string>
+    <string name="app_name">Android First Homework</string>
     <string name="UN">Username / Email</string>
     <string name="PW">Password</string>
     <string name="L">Login</string>
+    <string name="Greetings">Welcome!</string>
+    <string name="changeLang">Language</string>
 </resources>

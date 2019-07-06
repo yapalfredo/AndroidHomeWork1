@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Una Nga Homework</string>
+    <string name="UN">Username / Email</string>
+    <string name="PW">Pulong</string>
+    <string name="L">Sulod</string>
+    <string name="Greetings">Maayong Abot!</string>
+    <string name="changeLang">Pinulongan</string>
+</resources>

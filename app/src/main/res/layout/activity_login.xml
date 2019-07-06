@@ -34,4 +34,11 @@
         android:layout_height="wrap_content"
         android:text="@string/L"
         android:onClick="btnLoginClicked"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/changeLang" />
 </LinearLayout>

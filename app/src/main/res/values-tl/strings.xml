@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Unang Homework</string>
+    <string name="UN">Username / Email</string>
+    <string name="PW">Password</string>
+    <string name="L">Mag log in</string>
+    <string name="Greetings">Maligayang pagdating!</string>
+    <string name="changeLang">Wika</string>
+</resources>
