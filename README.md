@@ -7,4 +7,4 @@ It also demonstrates changing of Language or locale setting.
 Lastly, I added Alarm and Timer intents just for experience purpose.
 
 
-Deadline: July 5th, 2019
+Given: July 5th, 2019
