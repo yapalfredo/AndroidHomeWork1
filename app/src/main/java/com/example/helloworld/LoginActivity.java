@@ -22,6 +22,8 @@ public class LoginActivity extends AppCompatActivity {
     Button loginButton, languageButton;
     TextView txtV1, txtV2;
 
+    public static String KEY = "sample";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -118,6 +120,7 @@ public class LoginActivity extends AppCompatActivity {
         if (userName.equalsIgnoreCase("admin") && passWord.equals("admin"))
         {
             Intent intent = new Intent(LoginActivity.this, HomeActivity.class);
+            intent.putExtra(KEY,"Welcome!");
             startActivity(intent);
             txtV1.setText(""); txtV2.setText("");
             Toast.makeText(LoginActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
